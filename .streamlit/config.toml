@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0066cc"         # Blue for buttons and highlights
+backgroundColor = "#030303ff"      # Light grey background
+secondaryBackgroundColor = "#ffffff" # Card backgrounds
+textColor = "#f2ececff"            # Main text color
+font = "sans serif"

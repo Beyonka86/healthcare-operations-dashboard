@@ -1,0 +1,101 @@
+Staff_ID,Role,Department,Shift_Date,Shift,Hours_Worked
+S0001,Admin,Hematology,2025-06-19,Night,8
+S0002,Admin,Microbiology,2025-06-06,Morning,10
+S0003,Lab Tech,Microbiology,2025-06-16,Morning,8
+S0004,Nurse,Microbiology,2025-06-09,Evening,10
+S0005,Lab Tech,Hematology,2025-06-12,Evening,8
+S0006,Admin,Chemistry,2025-06-16,Night,12
+S0007,Nurse,Microbiology,2025-06-04,Morning,10
+S0008,Nurse,Microbiology,2025-06-11,Night,10
+S0009,Lab Tech,Microbiology,2025-06-11,Evening,12
+S0010,Admin,Hematology,2025-06-10,Evening,12
+S0011,Admin,Hematology,2025-06-16,Evening,8
+S0012,Lab Tech,Microbiology,2025-06-10,Night,12
+S0013,Admin,Microbiology,2025-07-01,Night,8
+S0014,Lab Tech,Microbiology,2025-06-09,Evening,10
+S0015,Nurse,Chemistry,2025-06-07,Night,12
+S0016,Nurse,Chemistry,2025-06-25,Night,8
+S0017,Admin,Microbiology,2025-07-01,Night,8
+S0018,Lab Tech,Microbiology,2025-06-27,Night,8
+S0019,Lab Tech,Chemistry,2025-06-16,Morning,12
+S0020,Lab Tech,Hematology,2025-06-09,Night,8
+S0021,Admin,Microbiology,2025-06-26,Evening,8
+S0022,Lab Tech,Chemistry,2025-06-16,Night,10
+S0023,Admin,Chemistry,2025-06-30,Night,10
+S0024,Admin,Hematology,2025-06-26,Evening,12
+S0025,Admin,Chemistry,2025-06-21,Morning,8
+S0026,Nurse,Chemistry,2025-06-22,Evening,8
+S0027,Admin,Chemistry,2025-06-02,Night,12
+S0028,Admin,Chemistry,2025-06-13,Evening,10
+S0029,Nurse,Hematology,2025-06-04,Evening,8
+S0030,Admin,Chemistry,2025-06-17,Night,12
+S0031,Admin,Chemistry,2025-06-08,Evening,10
+S0032,Lab Tech,Microbiology,2025-06-25,Night,12
+S0033,Admin,Chemistry,2025-06-05,Evening,8
+S0034,Lab Tech,Hematology,2025-06-10,Evening,8
+S0035,Nurse,Chemistry,2025-06-05,Evening,10
+S0036,Lab Tech,Microbiology,2025-06-26,Morning,12
+S0037,Lab Tech,Microbiology,2025-06-16,Morning,10
+S0038,Admin,Chemistry,2025-06-15,Evening,8
+S0039,Lab Tech,Hematology,2025-06-26,Night,8
+S0040,Nurse,Microbiology,2025-06-21,Morning,12
+S0041,Nurse,Chemistry,2025-06-08,Night,8
+S0042,Admin,Hematology,2025-06-11,Night,10
+S0043,Lab Tech,Hematology,2025-06-26,Evening,12
+S0044,Nurse,Hematology,2025-06-21,Night,10
+S0045,Lab Tech,Hematology,2025-06-24,Night,8
+S0046,Lab Tech,Chemistry,2025-06-14,Evening,8
+S0047,Admin,Hematology,2025-06-07,Evening,12
+S0048,Nurse,Chemistry,2025-06-04,Night,8
+S0049,Lab Tech,Microbiology,2025-06-07,Evening,8
+S0050,Lab Tech,Chemistry,2025-06-28,Evening,12
+S0051,Admin,Microbiology,2025-06-20,Evening,12
+S0052,Lab Tech,Chemistry,2025-06-04,Evening,10
+S0053,Lab Tech,Chemistry,2025-06-06,Night,12
+S0054,Lab Tech,Chemistry,2025-06-19,Morning,12
+S0055,Nurse,Microbiology,2025-06-04,Morning,10
+S0056,Nurse,Hematology,2025-06-12,Night,8
+S0057,Admin,Microbiology,2025-06-14,Night,8
+S0058,Admin,Microbiology,2025-06-14,Morning,10
+S0059,Admin,Chemistry,2025-06-23,Night,8
+S0060,Admin,Hematology,2025-06-16,Evening,8
+S0061,Nurse,Microbiology,2025-06-27,Evening,12
+S0062,Nurse,Microbiology,2025-07-01,Morning,10
+S0063,Nurse,Hematology,2025-06-27,Evening,12
+S0064,Admin,Chemistry,2025-06-16,Evening,12
+S0065,Lab Tech,Microbiology,2025-06-23,Evening,10
+S0066,Nurse,Hematology,2025-06-19,Morning,8
+S0067,Lab Tech,Hematology,2025-06-09,Morning,12
+S0068,Lab Tech,Hematology,2025-06-25,Evening,12
+S0069,Admin,Microbiology,2025-06-18,Night,8
+S0070,Admin,Hematology,2025-06-09,Night,10
+S0071,Admin,Hematology,2025-06-25,Night,10
+S0072,Admin,Hematology,2025-06-14,Morning,12
+S0073,Admin,Hematology,2025-06-10,Morning,10
+S0074,Lab Tech,Microbiology,2025-06-28,Morning,10
+S0075,Nurse,Hematology,2025-06-07,Night,12
+S0076,Admin,Microbiology,2025-06-28,Night,12
+S0077,Admin,Microbiology,2025-06-06,Night,8
+S0078,Nurse,Hematology,2025-06-26,Morning,12
+S0079,Lab Tech,Chemistry,2025-06-09,Night,12
+S0080,Nurse,Microbiology,2025-06-23,Evening,10
+S0081,Admin,Microbiology,2025-07-01,Night,12
+S0082,Nurse,Hematology,2025-07-01,Evening,8
+S0083,Lab Tech,Chemistry,2025-06-05,Night,8
+S0084,Nurse,Hematology,2025-06-23,Evening,8
+S0085,Admin,Microbiology,2025-06-16,Morning,12
+S0086,Admin,Microbiology,2025-06-21,Evening,10
+S0087,Lab Tech,Hematology,2025-06-21,Morning,10
+S0088,Admin,Chemistry,2025-06-09,Night,10
+S0089,Lab Tech,Microbiology,2025-06-11,Night,8
+S0090,Admin,Hematology,2025-06-24,Evening,12
+S0091,Admin,Chemistry,2025-06-12,Morning,12
+S0092,Lab Tech,Hematology,2025-07-01,Evening,8
+S0093,Lab Tech,Microbiology,2025-06-11,Evening,10
+S0094,Admin,Chemistry,2025-06-05,Night,10
+S0095,Lab Tech,Chemistry,2025-06-25,Morning,8
+S0096,Nurse,Chemistry,2025-06-26,Evening,8
+S0097,Nurse,Hematology,2025-06-15,Evening,8
+S0098,Lab Tech,Hematology,2025-06-23,Morning,12
+S0099,Lab Tech,Hematology,2025-06-28,Evening,8
+S0100,Admin,Microbiology,2025-06-09,Morning,10
